@@ -13,6 +13,7 @@
 <p align="center">
 <img src="https://github.com/user-attachments/assets/b36a1661-ee97-418c-b07a-8d07a87667b1" alt="EcsrStrap Demo" />
 </p>
+
 ---
 
 ## 🚀 Installation
