@@ -1,5 +1,5 @@
 <p align="center">
-<img width="96" height="96" alt="pekoStrap Updated" src="https://github.com/user-attachments/assets/d8b23f7b-80a3-4384-b4a8-7d4ffd42d855" />
+<img width="96" height="96" alt="EcsrStrap Updated" src="https://github.com/user-attachments/assets/33d65203-8884-4dc3-8472-bd49e08868e6" />
 
 </p>
 <h1 align="center">EcsrStrap</h1>
@@ -10,8 +10,9 @@
 
 ---
 
-<img src="https://github.com/user-attachments/assets/bdcd56e5-0a3d-4514-9b82-a14ee6e5e255" alt="EcsrStrap Demo" />
-
+<p align="center">
+<img src="https://github.com/user-attachments/assets/b36a1661-ee97-418c-b07a-8d07a87667b1" alt="EcsrStrap Demo" />
+</p>
 ---
 
 ## 🚀 Installation
@@ -34,6 +35,4 @@ For a list of FFlags, visit [Evil3D/FFlags](https://github.com/Evil3D/FFlags).
 ---
 
 ## ❤️ Credits
-- Made with ❤️ by **debuganddevs** on Discord
-- A big thank you for everything to **97yg/fyr8** on discord
-- General help by **zyythy** on Discord
+- Made with ❤️ by **debuganddevs** and **97yg/fyr8** on Discord
