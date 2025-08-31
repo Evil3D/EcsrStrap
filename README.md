@@ -10,7 +10,7 @@
 
 ---
 
-<img src="https://github.com/user-attachments/assets/bdcd56e5-0a3d-4514-9b82-a14ee6e5e255" alt="pekoStrap Demo" />
+<img src="https://github.com/user-attachments/assets/bdcd56e5-0a3d-4514-9b82-a14ee6e5e255" alt="EcsrStrap Demo" />
 
 ---
 
@@ -31,7 +31,7 @@ For Linux:
 ---
 
 ## ⚡ FastFlags
-For a list of FFlags, visit [Evil3D/Pekora-FFlags](https://github.com/Evil3D/Pekora-FFlags).
+For a list of FFlags, visit [Evil3D/FFlags](https://github.com/Evil3D/FFlags).
 
 ---
 
