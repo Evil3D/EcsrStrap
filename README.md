@@ -15,8 +15,7 @@
 ---
 
 ## 🚀 Installation
-- Go to the [Releases](https://github.com/Evil3D/EcsrStrap/releases) tab and download **`EcsrStrap.exe`**  
-- Or run **`EcsrStrap.py`** directly from the repo
+- Go to the [Releases](https://github.com/Evil3D/EcsrStrap/releases) tab and download **`EcsrStrap.py`**  
 
 For Linux:  
 - Install [ECS:R](https://ecsr.io/BootstrapperDeployment/RobloxPlayerLauncher.exe) via [Wine](https://www.winehq.org).
