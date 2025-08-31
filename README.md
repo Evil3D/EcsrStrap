@@ -2,22 +2,10 @@
 <img width="96" height="96" alt="pekoStrap Updated" src="https://github.com/user-attachments/assets/d8b23f7b-80a3-4384-b4a8-7d4ffd42d855" />
 
 </p>
-<h1 align="center">pekoStrap</h1>
+<h1 align="center">EcsrStrap</h1>
 
 <p align="center">
-  <i>A custom bootstrapper for Pekora, with FastFlags and Linux support.</i>
-</p>
-
-<p align="center">
-  <a href="https://github.com/WindowsMI/pekoStrap/releases">
-    <img src="https://img.shields.io/github/v/release/reprovision/pekoStrap?style=flat-square&color=blue" alt="Latest Release">
-  </a>
-  <a href="https://github.com/WindowsMI/pekoStrap/stargazers">
-    <img src="https://img.shields.io/github/stars/reprovision/pekoStrap?style=flat-square&color=yellow" alt="Stars">
-  </a>
-  <a href="https://github.com/WindowsMI/pekoStrap/issues">
-    <img src="https://img.shields.io/github/issues/reprovision/pekoStrap?style=flat-square&color=red" alt="Issues">
-  </a>
+  <i>A custom bootstrapper for ECS:R, with FastFlags and Linux support.</i>
 </p>
 
 ---
@@ -26,19 +14,12 @@
 
 ---
 
-## 💔 R.I.P
-- As of 31 August, 2025, Pekora has shut down. Thank you to everyone who used pekoStrap and helped build it.
-
-
----
-
 ## 🚀 Installation
-- Go to the [Releases](https://github.com/yourname/pekoStrap/releases) tab and download **`pekoStrap.exe`**  
-- Or run **`pekoStrap.py`** directly from the repo
+- Go to the [Releases](https://github.com/Evil3D/EcsrStrap/releases) tab and download **`EcsrStrap.exe`**  
+- Or run **`EcsrStrap.py`** directly from the repo
 
 For Linux:  
-- Install [Pekora](https://github.com/shikataganaii/Pekora-Bootstrapper/releases) via [Wine](https://www.winehq.org).
-- Or use [Pekora's Unofficial Linux Installer](https://github.com/johnhamilcar/PekoraBootstrapperLinux).
+- Install [ECS:R](https://ecsr.io/BootstrapperDeployment/RobloxPlayerLauncher.exe) via [Wine](https://www.winehq.org).
 
 ---
 
@@ -55,7 +36,8 @@ For a list of FFlags, visit [Evil3D/Pekora-FFlags](https://github.com/Evil3D/Pek
 ---
 
 ## ❤️ Credits
-- Made with ❤️ by **97yg/fyr8** on Discord
-- Linux support and more by **debuganddevs** on Discord
+- Made with ❤️ by **debuganddevs** on Discord
+- A big thank you for everything to **97yg/fyr8** on discord
 - General help by **zyythy** on Discord
 - FPS unlocker by **sushality** on Discord
+  
