@@ -37,5 +37,3 @@ For a list of FFlags, visit [Evil3D/FFlags](https://github.com/Evil3D/FFlags).
 - Made with ❤️ by **debuganddevs** on Discord
 - A big thank you for everything to **97yg/fyr8** on discord
 - General help by **zyythy** on Discord
-- FPS unlocker by **sushality** on Discord
-  
