@@ -1,5 +1,5 @@
 <p align="center">
-<img width="96" height="96" alt="EcsrStrap Updated" src="https://github.com/user-attachments/assets/33d65203-8884-4dc3-8472-bd49e08868e6" />
+<img width="96" height="96" alt="EcsrStrap Updated" src="https://github.com/user-attachments/assets/120b02c9-ddb6-46aa-b45f-a885c05095e9" />
 
 </p>
 <h1 align="center">EcsrStrap</h1>
