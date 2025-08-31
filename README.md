@@ -24,8 +24,7 @@ For Linux:
 
 ## ⭐ Features
 - FastFlags support
-- macOS + Linux support
-- FPS unlocker
+- Linux support
 
 ---
 
